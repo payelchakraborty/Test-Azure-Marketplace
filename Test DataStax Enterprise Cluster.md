@@ -28,6 +28,8 @@
 <li>Around-the-clock expert support and services</li>
 </ul>
 
- <img src="C:\Users\v-paych\Desktop\Datastax_image.png"/>
-<img src="http://azuredeploy.net/deploybutton.png"/>
+<p>
+<img src="images/Datastax_image.png"/>
+<p>
+
 
