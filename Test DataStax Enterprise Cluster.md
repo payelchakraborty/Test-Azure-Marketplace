@@ -1,4 +1,4 @@
-## Test DataStax Enterprise Cluster ##
+## <img src="images/Logo_Datastax.png"/> Test DataStax Enterprise Cluster ##
 
 *PP -> Marketing -> Details -> Description*
 
