@@ -5,3 +5,7 @@ Here you will find the list of offers which are present in Azure Marketplace and
 - OfferA
 
 - OfferB
+
+<a href="https://azuredeploy.net/" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
