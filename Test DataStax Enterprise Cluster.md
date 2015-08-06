@@ -1,4 +1,8 @@
-## <img src="images/Logo_Datastax.png"/> Test DataStax Enterprise Cluster ##
+
+## <img src="images/Logo_Datastax.png"/> Test DataStax Enterprise Cluster<br/>
+<a href="https://ms.portal.azure.com">
+<img src="images/deploybutton.png"/>    
+</a>
 
 *PP -> Marketing -> Details -> Description*
 
@@ -31,5 +35,15 @@
 <p>
 <img src="images/Datastax_image.png"/>
 <p>
+
+
+### Useful Links
+
+<a href="http://www.datastax.com/customers">Datastax Customers</a><br/>
+<a href="http://www.datastax.com/dbas-guide-to-nosql">DBA’s Guide to NoSQL</a><br/>
+<a href="http://www.datastax.com/wp-content/uploads/2013/10/DS_DataStax_DevCenter.pdf">Datastax OpsCenter Datasheet</a><br/>
+<a href="http://cassandra.apache.org/">Apache Cassandra</a><br/>
+<a href="http://www.datastax.com/resources/whitepapers/evaluating-apache-cassandra">Evaluating Apache Cassandra as a Cloud Database</a><br/>
+
 
 
