@@ -2,7 +2,7 @@
 ## <img src="images/Logo_Datastax.png"/> Test DataStax Enterprise Cluster 
 ##### by DataStax,Inc.
 <br/>
-<a href="https://ms.portal.azure.com">
+<a href="https://portal.azure.com/#create/datastax.datastax-enterprise-cluster byol-non-production">
 <img src="images/deploybutton.png"/>    
 </a>
 
