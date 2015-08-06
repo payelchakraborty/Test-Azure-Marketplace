@@ -6,8 +6,6 @@
 <img src="images/deploybutton.png"/>    
 </a>
 
-*PP -> Marketing -> Details -> Description*
-
 <p>DataStax delivers Apache Cassandra in a database platform purpose built for the performance and availability demands of IOT, web, and mobile applications, giving enterprises a secure always-on database that remains operationally simple when scaled in a single datacenter or across multiple data centers and clouds.</p>
 
 <p>DataStax Enterprise includes:</p>
