@@ -1,6 +1,5 @@
 ## <img src="images/logo-Zulu.png"/> Zulu Enterprise OnDemand
 #### by Azul Systems
-<br/>
 <a href="https://portal.azure.com/#create/azul.zulu-enterprise-ondemand-ub1404azul-zulu-ub1404">
 <img src="images/deploybutton.png"/>    
 </a>
