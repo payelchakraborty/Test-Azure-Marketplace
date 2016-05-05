@@ -1,11 +1,11 @@
-
+﻿
 ## <img src="images/Logo_Datastax.png"/> Test DataStax Enterprise Cluster 
 #### by DataStax,Inc.
 <a href="https://portal.azure.com/#create/datastax.datastax-enterprise-clusterbyol-non-production">
 <img src="images/deploybutton.png"/>    
 </a>
 
-<p>DataStax delivers Apache Cassandra in a database platform purpose built for the performance and availability demands of IOT, web, and mobile applications, giving enterprises a secure always-on database that remains operationally simple when scaled in a single datacenter or across multiple data centers and clouds.</p>
+<p>newwwwwwwwwwDataStax delivers Apache Cassandra in a database platform purpose built for the performance and availability demands of IOT, web, and mobile applications, giving enterprises a secure always-on database that remains operationally simple when scaled in a single datacenter or across multiple data centers and clouds.</p>
 
 <p>DataStax Enterprise includes:</p>
 
